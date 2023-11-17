@@ -1,4 +1,4 @@
-# CycleGAN
+# TiMiGNe
 ## Requirements
 ### Libraries:
 * Python 3.9.7
@@ -18,7 +18,7 @@
 * smooth_tiled_predictions
 
 ## Credits:
-* CycleGAN code based on the implementations by Sreenivas Bhattiprolu and Jason Brownlee. https://github.com/bnsreenu/python_for_microscopists/blob/master/253_254_cycleGAN_monet2photo/254-cycleGAN_model.py
+* TiMiGNet code based on the implementations by Sreenivas Bhattiprolu and Jason Brownlee. https://github.com/bnsreenu/python_for_microscopists/blob/master/253_254_cycleGAN_monet2photo/254-cycleGAN_model.py
 * Instance Normalization layer: https://github.com/keras-team/keras-contrib/blob/master/keras_contrib/layers/normalization/instancenormalization.py
 * Smooth Blend Image Patches: https://github.com/Vooban/Smoothly-Blend-Image-Patches
 * Extract and Merge Image Patches (EMPatches): https://github.com/Mr-TalhaIlyas/EMPatches
