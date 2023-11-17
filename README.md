@@ -1,4 +1,4 @@
-# TiMiGNe
+# TiMiGNeT
 ## Requirements
 ### Libraries:
 * Python 3.9.7
